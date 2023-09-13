@@ -1,7 +1,7 @@
 {
   "name": "fadio",
   "version": "1.0.0",
-  "description": "This library is used to detect forbidden Malagasy words that are taboo",
+  "description": "This dictionary is used to store taboo Malagasy words that are forbidden.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
