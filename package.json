@@ -1,0 +1,11 @@
+{
+  "name": "fadio",
+  "version": "1.0.0",
+  "description": "This library is used to detect forbidden Malagasy words that are taboo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AN Rohan",
+  "license": "ISC"
+}
